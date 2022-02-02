@@ -1,0 +1,34 @@
+[
+  {
+    "species": "otter",
+    "name": "Steve",
+    "age": 5,
+    "emoji": "🦦",
+    "feedingTime": "12:00",
+    "diet": "omnivore"
+  },
+  {
+    "species": "otter",
+    "name": "Gwen",
+    "age": 3,
+    "emoji": "🦦",
+    "feedingTime": "12:00",
+    "diet": "omnivore"
+  },
+  {
+    "species": "otter",
+    "name": "Lefteris",
+    "age": 27,
+    "emoji": "🦦",
+    "feedingTime": "12:00",
+    "diet": "omnivore"
+  },
+  {
+    "species": "tiger",
+    "name": "Michael",
+    "age": 8,
+    "emoji": "🐅",
+    "feedingTime": "15:00",
+    "diet": "omnivore"
+  }
+]
