@@ -1,7 +1,7 @@
 import { Module } from '@nestjs/common';
 import { ScheduleService } from './schedule.service';
 import { ScheduleController } from './schedule.controller';
-import { AnimalsModule } from 'src/animals/animals.module';
+import { AnimalsModule } from '../animals/animals.module';
 
 @Module({
   controllers: [ScheduleController],

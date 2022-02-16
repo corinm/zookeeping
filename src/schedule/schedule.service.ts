@@ -1,6 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { groupBy, uniq } from 'lodash';
-import { AnimalsService } from 'src/animals/animals.service';
+import { AnimalsService } from '../animals/animals.service';
 
 @Injectable()
 export class ScheduleService {
